@@ -5,7 +5,7 @@ This is a simple Grocery Application that allows you to create a list of grocery
 <img src = "Outputs/Snapshots/Screenshot_20220918-163335.jpg" width="400" height="800">
 <img src = "Outputs/Snapshots/Screenshot_20220918-163341.jpg" width="400" height="800">
 
-## Desciption
+## Description
 * Room is a persistent library in Android that allows fluent access to the database by creating an abstract layer over SQLite. It simplifies the process of adding a structured SQL database to your app. 
 * The app allows to enter items in the grocery list, which takes in three variables - Item Name, Item Rate, and Item Quantity
 * In case the values for mentioned variables are not entered, the app shows a toast asking for entering the values.
