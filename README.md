@@ -15,7 +15,8 @@ This is a simple Grocery Application that allows you to create a list of grocery
 [Click Here](https://github.com/smartinternz02/SPSGP-75113-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/Outputs/app-debug.apk)
 
 ## Demo Video
-https://user-images.githubusercontent.com/92010969/190901791-a2a71357-969b-4dea-8247-2faa99acccf2.mp4
+https://user-images.githubusercontent.com/92010969/192131207-fbce23a7-18dd-4f0a-8c42-ad0bb2849ab0.mp4
+
 
 ## Acknowledgement
 I want to thank Mr. Ponnam for his guidance during the live session which made my initial journey with kotlin and android development easier. In addition to, this a huge thanks to Smartbridge for providing this great learning oppurtunity to us students
